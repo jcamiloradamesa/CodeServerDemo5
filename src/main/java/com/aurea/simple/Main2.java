@@ -7,7 +7,7 @@ public class Main2 {
     private static final int notCapital = 3;
 
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Hello World1");
         System.out.println("Hello World");
         System.out.println("Hello World");
         Main main = new Main();
